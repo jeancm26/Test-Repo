@@ -14,3 +14,8 @@ Tipo de letra *Italic*
 summary(cars$dist)
 summary(cars$speed)
 ```
+
+[linked phrase](http://example.com)
+
+> It's always better to give
+> than to receive.
