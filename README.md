@@ -9,3 +9,8 @@
 Esto es una prueba sobre **MarkDown**
 
 Tipo de letra *Italic*
+
+```{r}
+summary(cars$dist)
+summary(cars$speed)
+```
