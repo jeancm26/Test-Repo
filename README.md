@@ -19,3 +19,23 @@ summary(cars$speed)
 
 > It's always better to give
 > than to receive.
+
+$equation$
+
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+Reference Style Links and Images
+
+
+A [linked phrase][id].
+
+[id]: http://example.com/ "Title"
+Images
+![alt text][id]
+
+[id]: figures/img.png "Title"
+
+$$ equation $$
